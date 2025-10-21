@@ -13,6 +13,13 @@ JavaScript
 Machine Learning
 Estou sempre em busca de novos conhecimentos e desafios para expandir minhas habilidades e contribuir para projetos interessantes.
 
+## Objetivos
+- Aprender novas tecnologias e frameworks.
+- Contribuir para projetos open-source.
+- Desenvolver projetos que impactem positivamente a comunidade.
+
+---
+Obrigado por visitar meu perfil! 
 Objetivos
 Aprender novas tecnologias e frameworks.
 Contribuir para projetos open-source.
