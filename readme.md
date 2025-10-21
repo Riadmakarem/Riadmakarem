@@ -25,4 +25,4 @@ Estou sempre em busca de novos conhecimentos e desafios para expandir minhas hab
 - Desenvolver projetos que impactem positivamente a comunidade.
 
 ---
-Obrigado por visitar meu perfil! 🚀
+Obrigado por visitar meu perfil! 
